@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Ariana
-- 👀 I love learning and interested in maths and coding, especially cryptography
+- 👋 Hello, my name is Ariana 
+- 👀 I love learning and am interested in maths and coding, especially cryptography
 - 🌱 I’m currently working on java side projects 
 
 <!---
