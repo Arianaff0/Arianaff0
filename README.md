@@ -1,5 +1,6 @@
 - 👋 Hello, my name is Ariana 
-- 👀 I love learning and am interested in maths and coding, especially cryptography
+- 👀 I love learning and am interested in maths and coding.  
+  Follow my journey to learning cryptography and cyber security from ground zero! Quiet literally :)
 - 🌱 I’m currently working on java side projects 
 
 <!---
